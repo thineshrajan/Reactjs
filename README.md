@@ -80,6 +80,9 @@ Password: tttt
 Admin can Lo able to see all user details
 
 **Signup URL**: http://localhost:3000/signup
+if I give the same email show the below error
+![image](https://github.com/thineshrajan/Reactjs/assets/45279705/c582a9a7-8081-4829-befb-f2072829590e)
+
 **Log URL** 
 if I give the wrong credentials show the below error
 ![image](https://github.com/thineshrajan/Reactjs/assets/45279705/aecbec62-321b-4808-a0a4-f25815310cc8)
@@ -90,3 +93,4 @@ Data URL
 This is the output of user details
 ![image](https://github.com/thineshrajan/Reactjs/assets/45279705/4236cddf-feab-4396-9a25-6d4ad4447d61)
 This is the output of admin details
+![image](https://github.com/thineshrajan/Reactjs/assets/45279705/332ca89f-ae2f-47c1-b6d7-f55f51b050dc)
