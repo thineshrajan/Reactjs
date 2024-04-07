@@ -71,3 +71,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Once Run Application 
 ![image](https://github.com/thineshrajan/Reactjs/assets/45279705/e7b10c36-e886-4bab-95a4-c939b8a724ef)
+**Admin Credentials **
+Email: admin@gmail.com
+Password: admin
+**User Credentials**
+Email:  thineshrajan1@gmail.com
+Password: tttt
+Admin can Lo able to see all user details
+
+**Signup URL**: http://localhost:3000/signup
+**Log URL** 
+if I give the wrong credentials show the below error
+![image](https://github.com/thineshrajan/Reactjs/assets/45279705/aecbec62-321b-4808-a0a4-f25815310cc8)
+
+Once Log Sucess it directly redirects to /data
+![image](https://github.com/thineshrajan/Reactjs/assets/45279705/e94c7acd-cae9-44ff-bff2-56af534c921f)
+Data URL
+This is the output of user details
+![image](https://github.com/thineshrajan/Reactjs/assets/45279705/4236cddf-feab-4396-9a25-6d4ad4447d61)
+This is the output of admin details
